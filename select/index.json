@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あにゅすめあ",
+  "base_artist": "桃寝ちのい",
+  "createdAt": "2026-02-07T18:33:00.467273Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あにゅすめあ (feat. 南見こまり)",
+      "artist": "桃寝ちのい",
+      "has_synced": false,
+      "path": "select/pl_01_あにゅすめあ_(feat._南見こまり)_桃寝ちのい.txt"
+    }
+  ]
+}
